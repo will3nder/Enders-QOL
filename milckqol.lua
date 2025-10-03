@@ -25,8 +25,8 @@ function Controller.key_press_update(self, key, dt)
     keys_to_ui = {
         ["z"] = "sort_value",
         ["x"] = "sort_rank",
-        ["backspace"] = "play_hand",
-        ["return"] = "discard_hand",
+        ["backspace"] = "discard_hand",
+        ["return"] = "play_hand",
         ["a"] = "run_info",
     }
     if G.STATE == G.STATES.SELECTING_HAND then
