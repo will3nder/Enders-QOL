@@ -1,5 +1,7 @@
-# Milck's QOL
+# Ender's QOL
 Mod for [Balatro](https://store.steampowered.com/app/2379780/Balatro/)
+
+Forked from [Milcks QOL](https://github.com/Mi1cK/Milcks-QOL)
 
 ## Key Binder
 
