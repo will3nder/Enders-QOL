@@ -1,7 +1,7 @@
 --- STEAMODDED HEADER
---- MOD_NAME: Milck QOL
---- MOD_ID: milkqol
---- MOD_AUTHOR: [Milck]
+--- MOD_NAME: Enders QOL
+--- MOD_ID: endersqol
+--- MOD_AUTHOR: [Ender]
 --- MOD_DESCRIPTION: Add keyboard shortcuts to the game, tweaks done by Ender
 ----------------------------------------------
 ------------MOD CODE -------------------------
